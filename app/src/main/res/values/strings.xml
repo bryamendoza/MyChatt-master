@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyChatt</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="sign_out">Cerrar Sesión</string>
+    <string name="friends_list">Amigos</string>
+    <string name="find_friends">Buscar Amigos</string>
+</resources>
